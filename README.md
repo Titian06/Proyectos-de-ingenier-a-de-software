@@ -1,13 +1,15 @@
-# Proyectos-de-ingenier-a-de-software
+# Proyectos de Ingeniería de Software
 
-José Ángel Meza Vásquez
-Edson Olaf Perez Martinez
-Edgar Robles Andrade
-Jaime Salazar Montemayor
-Diego Antonio Fuentes Rodriguez
-3018750
-2942892
-2877076
-3009120
-2880361
+Este repositorio contiene los proyectos desarrollados por el equipo de **Ingeniería de Software**.
 
+## Integrantes del equipo
+
+- **José Ángel Meza Vásquez** (ID: 3018750)
+- **Edson Olaf Perez Martinez** (ID: 2942892)
+- **Edgar Robles Andrade** (ID: 2877076)
+- **Jaime Salazar Montemayor** (ID: 3009120)
+- **Diego Antonio Fuentes Rodriguez** (ID: 2880361)
+
+## Descripción
+
+Aquí se encuentran los diferentes proyectos realizados durante el curso de **Ingeniería de Software**, donde se aplican diversas metodologías y herramientas para el desarrollo de soluciones de software.
