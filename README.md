@@ -1,6 +1,6 @@
 # Proyectos de Ingeniería de Software
 
-Este repositorio contiene los proyectos desarrollados por el equipo de **Ingeniería de Software**.
+Este repositorio contiene los proyectos desarrollados por el equipo de **2**.
 
 ## Integrantes del equipo
 
