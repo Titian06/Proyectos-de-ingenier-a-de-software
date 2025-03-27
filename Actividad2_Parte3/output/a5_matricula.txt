@@ -1,0 +1,8 @@
+Archivo: simple.html, Tiempo: 0.002002 segundos
+Archivo: medium.html, Tiempo: 0.001000 segundos
+Archivo: hard.html, Tiempo: 0.001000 segundos
+Archivo: 49.html, No encontrado
+
+Tiempo total en procesar todos los archivos: 0.004002 segundos
+Tiempo en generar el archivo consolidado: 0.000000 segundos
+Tiempo total del proceso completo: 0.004002 segundos
