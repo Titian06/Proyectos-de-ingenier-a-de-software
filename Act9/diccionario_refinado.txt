@@ -1,0 +1,4 @@
+tecnologia;15;3  
+aprendizaje;8;2  
+Colisiones: 5  
+Tokens eliminados: 120  
