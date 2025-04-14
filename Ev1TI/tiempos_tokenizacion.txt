@@ -1,0 +1,5 @@
+Cantidad de documentos: 10, Tiempo: 0.0999 segundos
+Cantidad de documentos: 20, Tiempo: 0.0993 segundos
+Cantidad de documentos: 30, Tiempo: 0.0975 segundos
+Cantidad de documentos: 40, Tiempo: 0.0983 segundos
+Cantidad de documentos: 50, Tiempo: 0.0958 segundos

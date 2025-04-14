@@ -1,0 +1,57 @@
+📋 Historias de Usuario:
+
+Sprint 1:
+---------------------------------------------------
+HU1: Tokenización de documentos
+HU2: Lanzamiento de tokenización desde consola
+---------------------------------------------------
+
+Sprint 2:
+---------------------------------------------------
+HU3: Indexación de tokens
+HU4: Medición de tiempos en procesamiento
+---------------------------------------------------
+
+
+📦 Backlog:
+
+Antes Sprint 1:
+---------------------------------------------------
+HU1: Tokenización de documentos
+HU2: Lanzamiento de tokenización
+HU3: Indexación de tokens
+HU4: Medición de tiempos
+---------------------------------------------------
+
+Después Sprint 1:
+---------------------------------------------------
+HU1: Tokenización de documentos (Hecha)
+HU2: Lanzamiento de tokenización (Hecha)
+---------------------------------------------------
+
+Después Sprint 2:
+---------------------------------------------------
+HU1: Tokenización de documentos (Hecha)
+HU2: Lanzamiento de tokenización (Hecha)
+HU3: Indexación de tokens (Hecha)
+HU4: Medición de tiempos (Hecha)
+---------------------------------------------------
+
+
+✅ Casos de Prueba:
+
+Casos de Prueba:
+---------------------------------------------------
+1. Tokenización de texto limpio
+2. Tokenización con signos y mayúsculas
+3. Postings con documentos repetidos
+4. Indexación de 0 documentos
+---------------------------------------------------
+
+📈 Velocidad del Equipo por Sprint:
+---------------------------------------------------
+| Sprint | Historias | Completadas | Velocidad |
+|--------|-----------|-------------|-----------|
+|   1    |     2     |      2      |     2     |
+|   2    |     2     |      2      |     2     |
+---------------------------------------------------
