@@ -1,0 +1,2 @@
+Tiempo de filtrado: 45 ms  
+Tokens totales: 500 | Eliminados: 120 | Restantes: 380  
